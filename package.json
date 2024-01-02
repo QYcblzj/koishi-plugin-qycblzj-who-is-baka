@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-qycblzj-who-is-baka",
-  "description": "",
-  "version": "0.0.1",
+  "description": "让我们来看看哪一个群u是大笨蛋😏👉",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,13 +9,19 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "author": "qycblzj <3395284800@qq.com>",
+  "homepage": "https://www.npmjs.com/package/koishi-plugin-qycblzj-who-is-baka?activeTab=readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QYcblzj/koishi-plugin-qycblzj-who-is-baka.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "小潮team"
   ],
   "peerDependencies": {
-    "koishi": "^4.14.0"
+    "koishi": "^4.16.1"
   }
 }
